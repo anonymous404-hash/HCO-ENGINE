@@ -98,8 +98,8 @@ cloudflared tunnel --url http://127.0.0.1:5000
 # Screenshots
 ![Screenshot_20250912-165720](https://uploads.onecompiler.io/444ewq55c/444hze73s/1000361297.jpg)
 ![Screenshot_20250912-165731](https://uploads.onecompiler.io/444ewq55c/444hze73s/1000361298.jpg)
-![Screenshot_20250912-165928](https://github.com/user-attachments/assets/94c7c9fd-67b8-43a7-99d1-a72c2159760d)
-![Screenshot_20250912-165939](https://github.com/user-attachments/assets/dde4e55e-688f-4844-9cfe-9d6165ce7380)
+![Screenshot_20250912-165928](https://uploads.onecompiler.io/444ewq55c/444hze73s/1000361305.jpg)
+![Screenshot_20250912-165939](https://uploads.onecompiler.io/444ewq55c/444hze73s/1000361300.jpg)
 
 
 # Supported Platforms 🖥️
