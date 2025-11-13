@@ -1,10 +1,10 @@
 # HCO-ENGINE 🛠️
 
-![HCO-HACKERS](https://img.shields.io/badge/DHT-HACKERS-magenta?style=for-the-badge) 
+![HCO-HACKERS]() 
 
-![HCO-GHOST](https://img.shields.io/badge/DHT-GHOST-magenta?style=for-the-badge)
+![HCO-GHOST]()
 
-Welcome to **DHT-ENGINE**, an educational Python-based web framework designed for learning Flask, threading, and real-time web interaction. This project demonstrates dynamic web forms, multi-step input handling, and terminal output with **Rich** tables and panels.
+Welcome to **HCO-ENGINE**, an educational Python-based web framework designed for learning Flask, threading, and real-time web interaction. This project demonstrates dynamic web forms, multi-step input handling, and terminal output with **Rich** tables and panels.
 
 > ⚠️ **Disclaimer:** This project is for **educational purposes only**. Do not use it to collect real credentials or attack systems. Use only in local environments or sandboxed networks.
 
