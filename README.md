@@ -127,9 +127,9 @@ Others: GitHub, GitLab, Stack Overflow, Notion, Wordpress, Slack, Zoom, Google D
 
 **HCO-HACKERS Team:** Core development and maintenance 
 
-**YouTube Channel:** Tutorials & guides — [HCO-HACKERS](https://www.youtube.com/@DHT-HACKERS_10)
+**YouTube Channel:** Tutorials & guides — [HCO-HACKERS](https://youtube.com/@hackers_colony_tech?si=g47CZJbAeK4WxMut)
 
-**Community:** HCO-HACKERS discussion & learning — [WhatsApp Group](https://chat.whatsapp.com/G2hCkCzylra2OENEfhH8Os)
+**Community:** HCO-HACKERS discussion & learning — [WhatsApp Group](https://chat.whatsapp.com/IWdwJxRjt260h9ax94AGNN?mode=ems_copy_t)
 
 ---
 
